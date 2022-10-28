@@ -1,4 +1,10 @@
 import pandas as pd
 
-df = pd.read_csv("./data/try.csv", sep=",")
-print(df)
+def get_from_csv(path):
+    df = pd.read_csv(path, sep=",")
+    return df
+
+# ToDo: integration with SchedGo API
+def fetch_SchedGo():
+    pass
+
