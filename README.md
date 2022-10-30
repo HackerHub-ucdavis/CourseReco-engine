@@ -22,9 +22,35 @@ python start_engine.py
 python start_engine.py -h
 ```
 
-## ToDo
+## Mode
 
-* [ ] Integration with SchedGo
-* [ ] error management (liked_key may not exists)
-* [ ] compute similarity matrix only once and store as file
+this engine has two modes: full and sub
+
+### Full
+
+this mode fetches data from SchedGo server,
+and make recommendations for all available courses for a quarter.
+
+```bash
+python start_engine.py --mode full
+```
+
+### Sub
+
+This mode will only make recommendations with subjects Math, Statistics, and Computer Science.
+
+**NOTE** this is the **default** mode.
+
+```bash
+python start_engine.py
+# or
+python start_engine.py -- mode ecs_mat_sta
+```
+
+# ToDo
+
+* [x] compute similarity matrix only once when the engine starts
+* [x] Integration with SchedGo
+* [ ] error management (liked_key may not exists), and logs
+* [ ] complete unit tests
 * [ ] better recommendation methods

@@ -1,0 +1,3061 @@
+[
+    {
+        "id": "matd",
+        "code": "MAT 000D",
+        "title": "Intermed Algebra",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 0,
+        "maxUnits": 0,
+        "description": "Basic concepts of algebra, prepares student for college work in mathematics, such as MAT 016A or MAT 021A. Functions, equations, graphs, logarithms, and systems of equations. Offered only if sufficient number of students enroll.",
+        "attributes": [],
+        "instructors": [
+            "Claire Davis"
+        ],
+        "sections": [
+            "30650"
+        ],
+        "capacity": 25,
+        "seatsAvailable": 25
+    },
+    {
+        "id": "mat12",
+        "code": "MAT 012",
+        "title": "Precalculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Topics selected for their use in calculus, including functions and their graphs, slope, zeroes of polynomials, exponential, logarithmic and trigonometric functions, sketching surfaces and solids.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "William Tavernetti"
+        ],
+        "sections": [
+            "30651"
+        ],
+        "capacity": 200,
+        "seatsAvailable": 200
+    },
+    {
+        "id": "sta13",
+        "code": "STA 013",
+        "title": "Elementary Statistics",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Descriptive statistics; basic probability concepts; binomial, normal, Student's t, and chi-square distributions. Hypothesis testing and confidence intervals for one and two means and proportions. Regression.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42784",
+            "42785",
+            "42786",
+            "42787",
+            "42792",
+            "42793",
+            "42794",
+            "42795",
+            "42796",
+            "42797",
+            "42798",
+            "42799"
+        ],
+        "capacity": 599,
+        "seatsAvailable": 599
+    },
+    {
+        "id": "sta13y",
+        "code": "STA 013Y",
+        "title": "Elementary Statistics",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Descriptive statistics; basic probability concepts; binomial, normal, Student's t, and chi-square distributions. Hypothesis testing and confidence intervals for one and two means and proportions. Regression.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            ""
+        ],
+        "sections": [
+            "45385",
+            "45386",
+            "45387",
+            "45388"
+        ],
+        "capacity": 200,
+        "seatsAvailable": 200
+    },
+    {
+        "id": "mat16a",
+        "code": "MAT 016A",
+        "title": "Short Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Limits; differentiation of algebraic functions; analytic geometry; applications, in particular to maxima and minima problems.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Cooper Jacob",
+            "Yonggyu Lee",
+            "Korana Burke"
+        ],
+        "sections": [
+            "30652",
+            "30653",
+            "30654",
+            "45070",
+            "45071"
+        ],
+        "capacity": 565,
+        "seatsAvailable": 565
+    },
+    {
+        "id": "mat16b",
+        "code": "MAT 016B",
+        "title": "Short Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Integration; calculus for trigonometric, exponential, and logarithmic functions; applications.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "John Challenor",
+            "Benjamin Morris"
+        ],
+        "sections": [
+            "30655",
+            "30656",
+            "30657"
+        ],
+        "capacity": 645,
+        "seatsAvailable": 645
+    },
+    {
+        "id": "mat16c",
+        "code": "MAT 016C",
+        "title": "Short Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Differential equations; partial derivatives; double integrals; applications; series.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Dowman Varn"
+        ],
+        "sections": [
+            "30659"
+        ],
+        "capacity": 95,
+        "seatsAvailable": 95
+    },
+    {
+        "id": "ecs17",
+        "code": "ECS 017",
+        "title": "Data, Logic, & Computing",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Display, processing, and representation of information and data on a computer. Understanding and analyzing the digital representations of numbers, images, and sounds. Basic computer operations and their logic. Introduction to discrete mathematics in computer science, including propositional logic, proofs by induction, recursions, and counting. Introduction to algorithms. Uses of computers and their influence on society.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Patrice Koehl"
+        ],
+        "sections": [
+            "21645",
+            "21646"
+        ],
+        "capacity": 120,
+        "seatsAvailable": 120
+    },
+    {
+        "id": "mat17a",
+        "code": "MAT 017A",
+        "title": "Calculus for BioSci",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to differential calculus via applications in biology and medicine. Limits, derivatives of polynomials, trigonometric, and exponential functions, graphing, applications of the derivative to biology and medicine.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Zhanerke Temirgaliyeva",
+            "Didac Martinez-Granado"
+        ],
+        "sections": [
+            "30660",
+            "30661",
+            "30662",
+            "30663",
+            "30664",
+            "30665",
+            "30666",
+            "30667",
+            "30668",
+            "30669",
+            "30670"
+        ],
+        "capacity": 467,
+        "seatsAvailable": 467
+    },
+    {
+        "id": "mat17b",
+        "code": "MAT 017B",
+        "title": "Calculus for BioSci",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to integral calculus and elementary differential equations via applications to biology and medicine. Fundamental theorem of calculus, techniques of integration including integral tables and numerical methods, improper integrals, elementary first order differential equations, applications in biology and medicine.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Rohit Thomas",
+            "Cooper Jacob",
+            "Ali Dad-Del"
+        ],
+        "sections": [
+            "30675",
+            "30676",
+            "30677",
+            "30678",
+            "30679",
+            "30680",
+            "30681",
+            "30682",
+            "30683",
+            "30684",
+            "30685",
+            "30686",
+            "30687",
+            "30688",
+            "30689",
+            "30690",
+            "30691",
+            "30692",
+            "30693",
+            "30694",
+            "30695",
+            "30696",
+            "30697"
+        ],
+        "capacity": 887,
+        "seatsAvailable": 887
+    },
+    {
+        "id": "mat17c",
+        "code": "MAT 017C",
+        "title": "Calculus for BioSci",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Matrix algebra, functions of several variables, partial derivatives, systems of differential equations, and applications to biology and medicine.",
+        "attributes": [
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Dowman Varn"
+        ],
+        "sections": [
+            "30698",
+            "30699",
+            "30700",
+            "30701",
+            "30702"
+        ],
+        "capacity": 225,
+        "seatsAvailable": 225
+    },
+    {
+        "id": "ecs20",
+        "code": "ECS 020",
+        "title": "Discrete Math for CS",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Discrete mathematics of particular utility to computer science. Proofs by induction. Propositional and first-order logic. Sets, functions, and relations. Big-O and related notations. Recursion and solutions of recurrence relations. Combinatorics. Probability on finite probability spaces. Graph theory.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Zhaojun Bai",
+            "Vladimir Filkov"
+        ],
+        "sections": [
+            "21647",
+            "21648",
+            "21651",
+            "21652"
+        ],
+        "capacity": 250,
+        "seatsAvailable": 250
+    },
+    {
+        "id": "mat21a",
+        "code": "MAT 021A",
+        "title": "Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Functions, limits, continuity. Slope and derivative. Differentiation of algebraic and transcendental functions. Applications to motion, natural growth, graphing, extrema of a function. Differentials. L'Hopital's rule.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Daping Weng",
+            "Alexander Wein"
+        ],
+        "sections": [
+            "30703",
+            "30704",
+            "30705",
+            "30706",
+            "30707",
+            "30708",
+            "30709"
+        ],
+        "capacity": 320,
+        "seatsAvailable": 320
+    },
+    {
+        "id": "mat21b",
+        "code": "MAT 021B",
+        "title": "Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Continuation of MAT 021A. Definition of definite integral, fundamental theorem of calculus, techniques of integration. Application to area, volume, arc length, average of a function, improper integral, surface of revolution. May be taught abroad.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "John Hunter",
+            "Alexander Mcdonough",
+            "Yonggyu Lee",
+            "Matthias Koeppe",
+            "Michael Kapovich"
+        ],
+        "sections": [
+            "30712",
+            "30713",
+            "30714",
+            "30715",
+            "30716",
+            "30717",
+            "30718",
+            "30719",
+            "30720",
+            "30721",
+            "30722",
+            "30723",
+            "30724",
+            "30725",
+            "30726",
+            "30727",
+            "30728",
+            "30730",
+            "30731",
+            "30732",
+            "30733",
+            "30734",
+            "30735",
+            "30736",
+            "30737",
+            "30738",
+            "30740",
+            "30741",
+            "30742",
+            "30743",
+            "30744",
+            "30745",
+            "30746"
+        ],
+        "capacity": 1340,
+        "seatsAvailable": 1340
+    },
+    {
+        "id": "mat21c",
+        "code": "MAT 021C",
+        "title": "Calculus",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Continuation of MAT 021B. Sequences, series, tests for convergence, Taylor expansions. Vector algebra, vector calculus, scalar and vector fields. Partial derivatives, total differentials. Applications to maximum and minimum problems in two or more variables. Applications to physical systems.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Abigail Thompson",
+            "Thomas Strohmer"
+        ],
+        "sections": [
+            "30748",
+            "30749",
+            "30750",
+            "30751",
+            "30752",
+            "30753",
+            "30754",
+            "30755",
+            "30756",
+            "30757",
+            "30758",
+            "30759",
+            "30760",
+            "30761"
+        ],
+        "capacity": 550,
+        "seatsAvailable": 550
+    },
+    {
+        "id": "mat21d",
+        "code": "MAT 021D",
+        "title": "Vector Analysis",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Continuation of MAT 021C. Definite integrals over plane and solid regions in various coordinate systems. Line and surface integrals. Green's theorem, Stoke's theorem, divergence theorem.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Enrique Alvarado",
+            "J Temple"
+        ],
+        "sections": [
+            "30762",
+            "30763",
+            "30764",
+            "30765",
+            "30766",
+            "30767",
+            "30768",
+            "30769",
+            "30770"
+        ],
+        "capacity": 371,
+        "seatsAvailable": 371
+    },
+    {
+        "id": "mat22a",
+        "code": "MAT 022A",
+        "title": "Linear Algebra",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Matrices and linear transformations, determinants, eigenvalues, eigenvectors, diagonalization, factorization.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Monica Vazirani",
+            "Elbridge Puckett",
+            "Orsola Capovilla-Searle"
+        ],
+        "sections": [
+            "30771",
+            "30772",
+            "45194"
+        ],
+        "capacity": 645,
+        "seatsAvailable": 645
+    },
+    {
+        "id": "mat22al",
+        "code": "MAT 022AL",
+        "title": "Linear Algebra Comp Lab",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 1,
+        "description": "Introduction to MATLAB and its use in linear algebra.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Ali Dad-Del"
+        ],
+        "sections": [
+            "30773",
+            "30774",
+            "30775",
+            "30776",
+            "30777",
+            "30778",
+            "30779",
+            "30780",
+            "30781",
+            "30782"
+        ],
+        "capacity": 400,
+        "seatsAvailable": 400
+    },
+    {
+        "id": "mat22b",
+        "code": "MAT 022B",
+        "title": "Differential Equations",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Solutions of elementary differential equations.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Steve Shkoller"
+        ],
+        "sections": [
+            "30783"
+        ],
+        "capacity": 295,
+        "seatsAvailable": 295
+    },
+    {
+        "id": "mat27a",
+        "code": "MAT 027A",
+        "title": "Linear Alg Appl to Bio",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to linear algebra with biological, medical, and bioengineering applications. Matrix algebra, vector spaces, orthogonality, determinants, eigenvalues, eigenvectors, principal component analysis, singular value decomposition, and linear transformations. Computer labs cover mathematical and computational techniques for modeling biological systems.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Francisco Arsuaga"
+        ],
+        "sections": [
+            "30784"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "ecs32a",
+        "code": "ECS 032A",
+        "title": "Intro to Programming",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to programming and problem solving in Python. Aimed primarily at non-major students.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Edwin Solares",
+            "Kristian Stevens"
+        ],
+        "sections": [
+            "21653",
+            "21654",
+            "21655",
+            "21656",
+            "21657",
+            "21658",
+            "21659",
+            "21660",
+            "45316"
+        ],
+        "capacity": 580,
+        "seatsAvailable": 580
+    },
+    {
+        "id": "ecs32b",
+        "code": "ECS 032B",
+        "title": "Intro to Data Structures",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Design and analysis of data structures using Python; trees, heaps, searching, sorting, and graphs.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            ""
+        ],
+        "sections": [
+            "21661",
+            "21662",
+            "21663",
+            "21664",
+            "21665"
+        ],
+        "capacity": 250,
+        "seatsAvailable": 250
+    },
+    {
+        "id": "sta32",
+        "code": "STA 032",
+        "title": "Gateway to Data Science",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Probability concepts; programming in R; exploratory data analysis; sampling distribution; estimation and inference; linear regression; simulations; resampling methods. Alternative to STA 013 for students with a background in calculus and programming.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Tae Yen Kim"
+        ],
+        "sections": [
+            "42800",
+            "42801"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "sta35b",
+        "code": "STA 035B",
+        "title": "Stat Data Science II",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Advanced programming and data manipulation in R. Principles of data visualization. Concepts of correlation, regression, analysis of variance, nonparametrics.",
+        "attributes": [
+            "QL",
+            "SE",
+            "VL"
+        ],
+        "instructors": [
+            "Ruoqi Yu"
+        ],
+        "sections": [
+            "45390",
+            "45391"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "ecs36a",
+        "code": "ECS 036A",
+        "title": "Programming",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Computers and computer programming for students with some prior experience, algorithm design, and debugging. Good programming style. Use of basic UNIX tools.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Matthew Butner"
+        ],
+        "sections": [
+            "21667"
+        ],
+        "capacity": 190,
+        "seatsAvailable": 190
+    },
+    {
+        "id": "ecs36b",
+        "code": "ECS 036B",
+        "title": "Object-Oriented Program",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Object-oriented programming in C++. Basic data structures and their use. Writing good programs of increased complexity and efficiency. Methods for debugging and verification.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Francois Gygi"
+        ],
+        "sections": [
+            "21669",
+            "21670",
+            "21671",
+            "21672"
+        ],
+        "capacity": 190,
+        "seatsAvailable": 190
+    },
+    {
+        "id": "ecs36c",
+        "code": "ECS 036C",
+        "title": "Data Structures",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Design and analysis of data structures for a variety of applications; trees, heaps, searching, sorting, hashing, and graphs. Extensive programming.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Yelena Frid"
+        ],
+        "sections": [
+            "21673",
+            "21674",
+            "21675"
+        ],
+        "capacity": 190,
+        "seatsAvailable": 190
+    },
+    {
+        "id": "ecs50",
+        "code": "ECS 050",
+        "title": "Machine Dependent Prog",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Comparative study of different hardware architectures via programming in the assembly languages of various machines. Role of system software in producing an abstract machine. Introduction to I/O devices and programming.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Daryl Posnett"
+        ],
+        "sections": [
+            "21677"
+        ],
+        "capacity": 125,
+        "seatsAvailable": 125
+    },
+    {
+        "id": "sta90x",
+        "code": "STA 090X",
+        "title": "Seminar",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 2,
+        "description": "Examination of a special topic in a small group setting.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "ecs92",
+        "code": "ECS 092",
+        "title": "Internship In Comp Sci",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Supervised work experience in computer science.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta98",
+        "code": "STA 098",
+        "title": "Directed Grp Study",
+        "level": "LowerDiv",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Directed group study.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat98",
+        "code": "MAT 098",
+        "title": "Directed Gp Study",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Directed group study.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "ecs99",
+        "code": "ECS 099",
+        "title": "Special Study",
+        "level": "LowerDiv",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special study for lower division students.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat99",
+        "code": "MAT 099",
+        "title": "Special Study Undergrad",
+        "level": "LowerDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special study for undergraduates.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta100",
+        "code": "STA 100",
+        "title": "Applied Stat for Bio Sci",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Descriptive statistics, probability, sampling distributions, estimation, hypothesis testing, contingency tables, ANOVA, regression; implementation of statistical methods using computer package.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42813",
+            "42814",
+            "42815",
+            "42816",
+            "42817",
+            "42818",
+            "42819",
+            "42820",
+            "42821",
+            "42822",
+            "42823",
+            "42824",
+            "42825",
+            "42826"
+        ],
+        "capacity": 700,
+        "seatsAvailable": 700
+    },
+    {
+        "id": "sta103",
+        "code": "STA 103",
+        "title": "Applied Statistics",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Descriptive statistics; probability; random variables; expectation; binomial, normal, Poisson, other univariate distributions; joint distributions; sampling distributions, central limit theorem; properties of estimators; linear combinations of random variables; testing and estimation; Minitab computing package. May be taught abroad.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42827",
+            "42828",
+            "42829",
+            "42830",
+            "42831",
+            "42832"
+        ],
+        "capacity": 299,
+        "seatsAvailable": 299
+    },
+    {
+        "id": "sta104",
+        "code": "STA 104",
+        "title": "Nonparametric Statistics",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Sign and Wilcoxon tests, Walsh averages. Two-sample procedures. Inferences concerning scale. Kruskal-Wallis test. Measures of association. Chi square and Kolmogorov-Smirnov tests.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42833",
+            "42834"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "sta106",
+        "code": "STA 106",
+        "title": "Analysis of Variance",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Basics of experimental design. One-way and two-way fixed effects analysis of variance models. Randomized complete and incomplete block design. Multiple comparisons procedures. One-way random effects model.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42835",
+            "42836",
+            "42837",
+            "42838"
+        ],
+        "capacity": 200,
+        "seatsAvailable": 200
+    },
+    {
+        "id": "sta108",
+        "code": "STA 108",
+        "title": "Regression Analysis",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Simple linear regression, variable selection techniques, stepwise regression, analysis of covariance, influence measures, computing packages.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [],
+        "sections": [
+            "42839",
+            "42840",
+            "42841",
+            "42842"
+        ],
+        "capacity": 199,
+        "seatsAvailable": 199
+    },
+    {
+        "id": "mat108",
+        "code": "MAT 108",
+        "title": "Intro Abstract Math",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Rigorous treatment of mathematical concepts with emphasis on developing the ability to understand abstract mathematical ideas, to read and write mathematical concepts, and to prove theorems. Designed to serve as preparation for the more rigorous upper division courses.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Alex Chandler",
+            "Gabriel Islambouli"
+        ],
+        "sections": [
+            "30808",
+            "30809",
+            "30810",
+            "30811",
+            "30812",
+            "30813"
+        ],
+        "capacity": 180,
+        "seatsAvailable": 180
+    },
+    {
+        "id": "mat111",
+        "code": "MAT 111",
+        "title": "History of Mathematics",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "History of mathematics from ancient times through the development of calculus. Mathematics from Arab, Hindu, Chinese and other cultures. Selected topics from the history of modern mathematics.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "William Tavernetti"
+        ],
+        "sections": [
+            "30814"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "mat115b",
+        "code": "MAT 115B",
+        "title": "Number Theory",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Euler function, Moebius function, congruences, primitive roots, quadratic reciprocity law.",
+        "attributes": [
+            "QL",
+            "SE",
+            "SL"
+        ],
+        "instructors": [
+            "Motohico Mulase"
+        ],
+        "sections": [
+            "45195"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "mat119a",
+        "code": "MAT 119A",
+        "title": "Ordinary Diff Equations",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Scalar and planar autonomous systems; nonlinear systems and linearization; existence and uniqueness of solutions; matrix solution of linear systems; phase plane analysis; stability analysis; bifurcation theory; Liapunov's method; limit cycles; Poincare Bendixon theory.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Timothy Lewis"
+        ],
+        "sections": [
+            "30816"
+        ],
+        "capacity": 80,
+        "seatsAvailable": 80
+    },
+    {
+        "id": "ecs120",
+        "code": "ECS 120",
+        "title": "Theory Computation",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Fundamental ideas in the theory of computation, including formal languages, computability and complexity. Reducibility among computational problems.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "David Doty"
+        ],
+        "sections": [
+            "21799",
+            "21800",
+            "21801"
+        ],
+        "capacity": 174,
+        "seatsAvailable": 174
+    },
+    {
+        "id": "ecs122a",
+        "code": "ECS 122A",
+        "title": "Algorithm Design & Anyls",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Complexity of algorithms, bounds on complexity, analysis methods. Searching, sorting, pattern matching, graph algorithms. Algorithm design techniques: divide-conquer, greedy, dynamic programming. Approximation methods. NP-complete problems.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            ""
+        ],
+        "sections": [
+            "21802",
+            "21803",
+            "21804",
+            "21805",
+            "45323"
+        ],
+        "capacity": 250,
+        "seatsAvailable": 250
+    },
+    {
+        "id": "ecs122b",
+        "code": "ECS 122B",
+        "title": "Algorithm Design & Anlys",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Theory and practice of hard problems, and problems with complex algorithm solutions. NP-completeness, approximation algorithms, randomized algorithms, dynamic programming and branch and bound. Theoretical analysis, implementation and practical evaluations. Examples from parallel, string, graph, and geometric algorithms.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            ""
+        ],
+        "sections": [
+            "21806",
+            "21807",
+            "45324"
+        ],
+        "capacity": 150,
+        "seatsAvailable": 150
+    },
+    {
+        "id": "ecs124",
+        "code": "ECS 124",
+        "title": "Bioinformatics",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Fundamental biological, mathematical and algorithmic models underlying bioinformatics and systems biology; sequence analysis, database search, genome annotation, clustering and classification, functional gene networks, regulatory network inference, phylogenetic trees, applications of common bioinformatics tools in molecular biology and genetics.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Yelena Frid"
+        ],
+        "sections": [
+            "45325"
+        ],
+        "capacity": 85,
+        "seatsAvailable": 85
+    },
+    {
+        "id": "mat127a",
+        "code": "MAT 127A",
+        "title": "Real Analysis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Real numbers, sequences, series, and continuous functions.",
+        "attributes": [],
+        "instructors": [
+            "Melissa Zhang",
+            "Sameer Iyer"
+        ],
+        "sections": [
+            "30818",
+            "30819",
+            "30820",
+            "30821",
+            "30822",
+            "30823"
+        ],
+        "capacity": 180,
+        "seatsAvailable": 180
+    },
+    {
+        "id": "mat127b",
+        "code": "MAT 127B",
+        "title": "Real Analysis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Derivatives, integrals, sequences of functions, and power series.",
+        "attributes": [],
+        "instructors": [
+            "Garving Luli",
+            "Alexander Wein"
+        ],
+        "sections": [
+            "30824",
+            "30825",
+            "30826",
+            "30827"
+        ],
+        "capacity": 120,
+        "seatsAvailable": 120
+    },
+    {
+        "id": "mat127c",
+        "code": "MAT 127C",
+        "title": "Real Analysis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Metric spaces and multi-variable calculus.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "30828",
+            "30829"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "mat128a",
+        "code": "MAT 128A",
+        "title": "Numerical Analysis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Error analysis, approximation, interpolation, numerical differentiation and integration. Programming in language such as Pascal, Fortran, or BASIC required.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "David Marsico"
+        ],
+        "sections": [
+            "30830"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "mat128b",
+        "code": "MAT 128B",
+        "title": "Numerical Analysis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Solution of nonlinear equations and nonlinear systems. Minimization of functions of several variables. Simultaneous linear equations. Eigenvalue problems. Linear programming. Programming in language such as Pascal, Fortran, or BASIC required.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Stefan Schonsheck"
+        ],
+        "sections": [
+            "30831"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "sta130a",
+        "code": "STA 130A",
+        "title": "Brief Math Stat",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Basic probability, densities and distributions, mean, variance, covariance, Chebyshev's inequality, some special distributions, sampling distributions, central limit theorem and law of large numbers, point estimation, some methods of estimation, interval estimation, confidence intervals for certain quantities, computing sample sizes.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Can Le"
+        ],
+        "sections": [
+            "42843",
+            "42844"
+        ],
+        "capacity": 99,
+        "seatsAvailable": 99
+    },
+    {
+        "id": "sta130b",
+        "code": "STA 130B",
+        "title": "Math Stat: Brief Course",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Transformed random variables, large sample properties of estimates. Basic ideas of hypotheses testing, likelihood ratio tests, goodness-of-fit tests. General linear model, least squares estimates, Gauss-Markov theorem. Analysis of variance, F-test. Regression and correlation, multiple regression. Selected topics.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Balakanapathy Rajaratnam"
+        ],
+        "sections": [
+            "42845",
+            "42846"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "sta131a",
+        "code": "STA 131A",
+        "title": "Probability Theory",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Fundamental concepts of probability theory, discrete and continuous random variables, standard distributions, moments and moment-generating functions, laws of large numbers and the central limit theorem.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Krishnakumar Balasubramanian"
+        ],
+        "sections": [
+            "42847",
+            "42848"
+        ],
+        "capacity": 99,
+        "seatsAvailable": 99
+    },
+    {
+        "id": "sta131b",
+        "code": "STA 131B",
+        "title": "Math Statistics",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Sampling, methods of estimation, bias-variance decomposition, sampling distributions, Fisher information, confidence intervals, and some elements of hypothesis testing.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "42849",
+            "42850"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "ecs132",
+        "code": "ECS 132",
+        "title": "Prob & Sta Model for CS",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Univariate and multivariate distributions. Estimation and model building. Markov/Hidden Markov models. Applications to data mining, networks, security, software engineering and bioinformatics.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Dipak Ghosal"
+        ],
+        "sections": [
+            "21810",
+            "21811"
+        ],
+        "capacity": 125,
+        "seatsAvailable": 125
+    },
+    {
+        "id": "sta135",
+        "code": "STA 135",
+        "title": "Multivar Data Analysis",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Multivariate normal distribution; Mahalanobis distance; sampling distributions of the mean vector and covariance matrix; Hotellings T2; simultaneous inference; one-way MANOVA; discriminant analysis; principal components; canonical correlation; factor analysis. Intensive use of computer analyses and real data sets.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Xiaodong Li"
+        ],
+        "sections": [
+            "42851",
+            "42852"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "mat135a",
+        "code": "MAT 135A",
+        "title": "Probability",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Probability space; discrete probability, combinatorial analysis; independence, conditional probability; random variables, discrete and continuous distributions, probability mass function, joint and marginal density functions; expectation, moments, variance, Chebyshev inequality; sums of random variables, random walk, large number law, central limit theorem.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Didac Martinez-Granado"
+        ],
+        "sections": [
+            "30832",
+            "30833",
+            "30834",
+            "30835"
+        ],
+        "capacity": 120,
+        "seatsAvailable": 120
+    },
+    {
+        "id": "mat135b",
+        "code": "MAT 135B",
+        "title": "Stochastic Processes",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Generating functions, branching processes, characteristic function; Markov chains; convergence of random variables, law of iterated logarithm; random processes, Brownian motion, stationary processes, renewal processes, queueing theory, martingales.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Janko Gravner"
+        ],
+        "sections": [
+            "45196",
+            "45197"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "sta137",
+        "code": "STA 137",
+        "title": "Applied Time Ser Anlysis",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Time series relationships; univariate time series models: trend, seasonality, correlated errors; regression with correlated errors; autoregressive models; autoregressive moving average models; spectral analysis: cyclical behavior and periodicity, measures of periodicity, periodogram; linear filtering; prediction of time series; transfer function models.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Xiucai Ding"
+        ],
+        "sections": [
+            "42853",
+            "42854"
+        ],
+        "capacity": 90,
+        "seatsAvailable": 90
+    },
+    {
+        "id": "sta138",
+        "code": "STA 138",
+        "title": "Anly Categor Data",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Varieties of categorical data, cross-classifications, contingency tables, tests for independence. Multidimensional tables and log-linear models, maximum likelihood estimation; tests of goodness-of-fit. Logit\nmodels, linear logistic models. Analysis of incomplete tables. Packaged computer programs, analysis of real data.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Andrew Farris"
+        ],
+        "sections": [
+            "42855",
+            "42856"
+        ],
+        "capacity": 99,
+        "seatsAvailable": 99
+    },
+    {
+        "id": "ecs140a",
+        "code": "ECS 140A",
+        "title": "Programming Languages",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Syntactic definition of programming languages. Introduction to programming language features including variables, data types, data abstraction, object-orientedness, scoping, parameter disciplines, exception handling. Non-imperative programming languages. Comparative study of several high-level programming languages.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            ""
+        ],
+        "sections": [
+            "21812"
+        ],
+        "capacity": 195,
+        "seatsAvailable": 195
+    },
+    {
+        "id": "sta141a",
+        "code": "STA 141A",
+        "title": "Statistical Data Science",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to computing for data analysis & visualization, and simulation, using a high-level language (e.g., R). Computational reasoning, computationally intensive statistical methods, reading tabular & non-standard data.",
+        "attributes": [],
+        "instructors": [
+            "Jairo Fuquene Patino"
+        ],
+        "sections": [
+            "42857",
+            "42858"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "sta141b",
+        "code": "STA 141B",
+        "title": "Stat Data Technologies",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Essentials of using relational databases and SQL. Processing data in blocks. Scraping Web pages and using Web services/APIs. Basics of text mining. Interactive data visualization with Web technologies. Computational data workflow and best practices. Statistical methods.",
+        "attributes": [],
+        "instructors": [
+            "Bo Ning"
+        ],
+        "sections": [
+            "42859",
+            "42860"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "sta141c",
+        "code": "STA 141C",
+        "title": "Adv Stat Computing",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "High-performance computing in high-level data analysis languages; different computational approaches and paradigms for efficient analysis of big data; interfaces to compiled languages; R and Python programming languages; high-level parallel computing; MapReduce; parallel algorithms and reasoning.",
+        "attributes": [],
+        "instructors": [
+            "Bo Ning"
+        ],
+        "sections": [
+            "42861",
+            "42862"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "mat141",
+        "code": "MAT 141",
+        "title": "Euclidean Geometry",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Axiomatic and analytic examination of Euclidean geometry from an advanced point of view.  In particular, a discussion of its relation to other geometries. Designed to serve as preparation for the more rigorous upper division courses.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Gabriel Islambouli"
+        ],
+        "sections": [
+            "30836",
+            "30837"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "sta142a",
+        "code": "STA 142A",
+        "title": "Stat Learning I",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Fundamental concepts and methods in statistical learning with emphasis on supervised learning. Principles, methodologies and applications of parametric and nonparametric regression, classification, resampling and model selection techniques.",
+        "attributes": [],
+        "instructors": [
+            "Krishnakumar Balasubramanian"
+        ],
+        "sections": [
+            "42863",
+            "42864"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "mat145",
+        "code": "MAT 145",
+        "title": "Combinatorics",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Combinatorial methods using basic graph theory, counting methods, generating functions, and recurrence relations. Designed to serve as preparation for the more rigorous upper division courses.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Sean Griffin"
+        ],
+        "sections": [
+            "30838",
+            "30839"
+        ],
+        "capacity": 100,
+        "seatsAvailable": 100
+    },
+    {
+        "id": "ecs150",
+        "code": "ECS 150",
+        "title": "Operating Systems",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Basic concepts of operating systems and system programming. Processes and interprocess communication/synchronization; virtual memory, program loading and linking; file and I/O subsystems; utility programs. Study of a real operating system.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Joel Porquet"
+        ],
+        "sections": [
+            "21814"
+        ],
+        "capacity": 195,
+        "seatsAvailable": 195
+    },
+    {
+        "id": "mat150a",
+        "code": "MAT 150A",
+        "title": "Modern Algebra",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Basic concepts of groups, symmetries of the plane. Emphasis on the techniques used in the proof of the ideas (Lemmas, Theorems, etc.) developing these concepts. Precise thinking, proof writing, and the ability to deal with abstraction.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Anne Schilling"
+        ],
+        "sections": [
+            "30841",
+            "30842"
+        ],
+        "capacity": 60,
+        "seatsAvailable": 60
+    },
+    {
+        "id": "mat150b",
+        "code": "MAT 150B",
+        "title": "Modern Algebra",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Bilinear forms, rings, factorization, modules.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Daping Weng"
+        ],
+        "sections": [
+            "30843",
+            "30844"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "ecs152a",
+        "code": "ECS 152A",
+        "title": "Computer Networks",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Overview of computer networks, TCP/IP protocol suite, computer-networking applications and protocols, transport-layer protocols, network architectures, Internet Protocol (IP), routing, link-layer protocols, local area and wireless networks, medium access control, physical aspects of data transmission, and network-performance analysis.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Sen-Ching Cheung"
+        ],
+        "sections": [
+            "21815",
+            "21816",
+            "21817"
+        ],
+        "capacity": 177,
+        "seatsAvailable": 177
+    },
+    {
+        "id": "ecs154a",
+        "code": "ECS 154A",
+        "title": "Computer Architecture",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to digital design. Interfacing of devices for I/O, memory and memory management. Input/output programming, via wait loops, hardware interrupts and calls to operating system services. Hardware support for operating systems software.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Matthew Butner"
+        ],
+        "sections": [
+            "21819"
+        ],
+        "capacity": 175,
+        "seatsAvailable": 175
+    },
+    {
+        "id": "ecs154b",
+        "code": "ECS 154B",
+        "title": "Computer Architecture",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Hardwired and microprogrammed CPU design. Memory hierarchies. Uniprocessor performance analysis under varying program mixes. Introduction to pipelining and multiprocessors.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Jason Lowe-Power"
+        ],
+        "sections": [
+            "21823"
+        ],
+        "capacity": 75,
+        "seatsAvailable": 75
+    },
+    {
+        "id": "ecs160",
+        "code": "ECS 160",
+        "title": "Software Engineering",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Requirements, specification, design, implementation, testing, and verification of large software systems. Study and use of software engineering methodologies.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Christopher Nitta"
+        ],
+        "sections": [
+            "21824"
+        ],
+        "capacity": 95,
+        "seatsAvailable": 95
+    },
+    {
+        "id": "ecs164",
+        "code": "ECS 164",
+        "title": "Human-Computer Inter",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to concepts and practice of modern human-computer interaction design.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Hao-Chuan Wang"
+        ],
+        "sections": [
+            "21826"
+        ],
+        "capacity": 125,
+        "seatsAvailable": 125
+    },
+    {
+        "id": "ecs165a",
+        "code": "ECS 165A",
+        "title": "Database Systems",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Database modeling and design (E/R model, relational model), relational algebra, query languages (SQL), file and index structures, query processing, transaction management.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Mohammad Sadoghi Hamedani"
+        ],
+        "sections": [
+            "21827",
+            "21828",
+            "21829"
+        ],
+        "capacity": 150,
+        "seatsAvailable": 150
+    },
+    {
+        "id": "mat167",
+        "code": "MAT 167",
+        "title": "Applied Linear Algebra",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Applications of linear algebra; LU and QR matrix factorizations, eigenvalue and singular value matrix decompositions.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Kathryn Link"
+        ],
+        "sections": [
+            "30845"
+        ],
+        "capacity": 60,
+        "seatsAvailable": 60
+    },
+    {
+        "id": "mat168",
+        "code": "MAT 168",
+        "title": "Optimization",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Linear programming, simplex method. Basic properties of unconstrained nonlinear problems, descent methods, conjugate direction method. Constrained minimization. Programming language required.",
+        "attributes": [
+            "QL",
+            "SE"
+        ],
+        "instructors": [
+            "Matthias Koeppe"
+        ],
+        "sections": [
+            "30846"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "ecs170",
+        "code": "ECS 170",
+        "title": "Artificial Intelligence",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Design and implementation of intelligent computer systems. Knowledge representation and organization. Memory and inference. Problem solving. Natural language processing.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Ian Davidson"
+        ],
+        "sections": [
+            "21830"
+        ],
+        "capacity": 125,
+        "seatsAvailable": 125
+    },
+    {
+        "id": "ecs172",
+        "code": "ECS 172",
+        "title": "Recomm Systems",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Collaborative filtering and content-based methods for building recommender systems. Statistical, matrix factorization, textual analysis, and nearest-neighbor approaches. Case studies.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Norman Matloff"
+        ],
+        "sections": [
+            "21831"
+        ],
+        "capacity": 60,
+        "seatsAvailable": 60
+    },
+    {
+        "id": "mat180",
+        "code": "MAT 180",
+        "title": "Special Topics",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Special topics from various fields of modern, pure, and applied mathematics.  Some recent topics include Knot Theory, General Relativity, and Fuzzy Sets.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Laura Starkston"
+        ],
+        "sections": [
+            "30847"
+        ],
+        "capacity": 40,
+        "seatsAvailable": 40
+    },
+    {
+        "id": "mat185a",
+        "code": "MAT 185A",
+        "title": "Complex Variables",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Complex number system, analyticity and the Cauchy-Riemann equations, elementary functions, complex integration, power and Laurent series expansions, residue theory.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Andrew Waldron"
+        ],
+        "sections": [
+            "30848"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "ecs188",
+        "code": "ECS 188",
+        "title": "Ethics in an Age of Tech",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Foundations of ethics. Views of technology. Technology and human values. Costs and benefits of technology. Character of technological change. Social context of work in computer science and engineering.",
+        "attributes": [
+            "SL",
+            "SS",
+            "WE"
+        ],
+        "instructors": [
+            "Premkumar Devanbu",
+            "Matthew Franklin"
+        ],
+        "sections": [
+            "21832",
+            "21833"
+        ],
+        "capacity": 60,
+        "seatsAvailable": 60
+    },
+    {
+        "id": "ecs189a",
+        "code": "ECS 189A",
+        "title": "Computer Science Theory",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special topic in Computer Science Theory.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Isaac Kim"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 59,
+        "seatsAvailable": 59
+    },
+    {
+        "id": "ecs189g",
+        "code": "ECS 189G",
+        "title": "Artificial Intelligence",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special topic in Artificial Intelligence.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Jiawei Zhang"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "sta192",
+        "code": "STA 192",
+        "title": "Statistics Intern",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 12,
+        "description": "Work experience in statistics.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat192",
+        "code": "MAT 192",
+        "title": "Intern in Applied Math",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 3,
+        "description": "Supervised work experience in applied mathematics. Final report.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "ecs193a",
+        "code": "ECS 193A",
+        "title": "Senior Design Project",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Responding to real-life client design challenges, student teams plan, implement, and evaluate large-scale projects involving computer and computational systems. Project supervised by a faculty member. Must take ECS 193A & ECS 193B to receive credit.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [
+            "Xin Liu"
+        ],
+        "sections": [
+            "21841"
+        ],
+        "capacity": 99,
+        "seatsAvailable": 99
+    },
+    {
+        "id": "sta194ha",
+        "code": "STA 194HA",
+        "title": "Honors Studies",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Directed reading, research and writing, culminating in the completion of a senior honors thesis or project under direction of a faculty advisor.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta194hb",
+        "code": "STA 194HB",
+        "title": "Honors Studies",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Directed reading, research and writing, culminating in the completion of a senior honors thesis or project under direction of a faculty advisor.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat194",
+        "code": "MAT 194",
+        "title": "Undergraduate Thesis",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Independent research under supervision of a faculty member. Student will submit written report in thesis form.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat197tc",
+        "code": "MAT 197TC",
+        "title": "Tutoring Math",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special projects in mathematical education developing techniques for mathematics instruction and tutoring on an individual or small group basis.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta198",
+        "code": "STA 198",
+        "title": "Directed Grp Study",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Directed group study. May be taught abroad.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat198",
+        "code": "MAT 198",
+        "title": "Directed Group Study",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "May be taught abroad.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "ecs199fa",
+        "code": "ECS 199FA",
+        "title": "Student-Taught Course De",
+        "level": "UpperDiv",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 4,
+        "description": "Under the supervision of a faculty member, an undergraduate student plans and develops the course they will offer under 098F/198F.",
+        "attributes": [],
+        "instructors": [
+            "Muhammad Zubair Shafiq"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 99,
+        "seatsAvailable": 99
+    },
+    {
+        "id": "sta199",
+        "code": "STA 199",
+        "title": "Undergrad Adv Study",
+        "level": "UpperDiv",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special study for advanced undergraduates.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat199",
+        "code": "MAT 199",
+        "title": "Special Study",
+        "level": "UpperDiv",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special study for advanced undergraduates.",
+        "attributes": [
+            "SE"
+        ],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta200b",
+        "code": "STA 200B",
+        "title": "Math Statistics",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Sampling, methods of estimation, bias-variance decomposition, sampling distributions, Fisher information, confidence intervals, and some elements of hypothesis testing.",
+        "attributes": [],
+        "instructors": [
+            "Can Le"
+        ],
+        "sections": [
+            "42902"
+        ],
+        "capacity": 72,
+        "seatsAvailable": 72
+    },
+    {
+        "id": "ecs201a",
+        "code": "ECS 201A",
+        "title": "Computer Architecture",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Modern research topics and methods in computer architecture. Design implications of memory latency and bandwidth limitations. Performance enhancement via within-processor and between-processor parallelism.",
+        "attributes": [],
+        "instructors": [
+            "Jason Lowe-Power"
+        ],
+        "sections": [
+            "21968"
+        ],
+        "capacity": 88,
+        "seatsAvailable": 88
+    },
+    {
+        "id": "mat201b",
+        "code": "MAT 201B",
+        "title": "Analysis",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Metric and normed spaces. Continuous functions. Topological, Hilbert, and Banach spaces. Fourier series. Spectrum of bounded and compact linear operators. Linear differential operators and Green's functions. Distributions. Fourier transform. Measure theory. Lp and Sobolev spaces. Differential calculus and variational methods.",
+        "attributes": [],
+        "instructors": [
+            "Steve Shkoller"
+        ],
+        "sections": [
+            "30924"
+        ],
+        "capacity": 40,
+        "seatsAvailable": 40
+    },
+    {
+        "id": "mat202",
+        "code": "MAT 202",
+        "title": "Functional Analysis",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Hahn-Banach, Open mapping, Closed graph, Banach-Steinhaus, and Krein-Milman. Subspaces and quotient spaces. Projections. Weak and weak-star topologies. Compact and adjoint operators in Banach spaces. Fredholm theory. Functions of operators. Spectral theory of self-adjoint operators.",
+        "attributes": [],
+        "instructors": [
+            "Martin Fraas"
+        ],
+        "sections": [
+            "45198"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "mat205a",
+        "code": "MAT 205A",
+        "title": "Complex Analysis",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Cauchy's theorem, Cauchy's integral formulas, meromorphic functions, complex logarithm, entire functions, Weierstrass infinite product formula, the gamma and zeta functions, and prime number theorem.",
+        "attributes": [],
+        "instructors": [
+            "Motohico Mulase"
+        ],
+        "sections": [
+            "30925"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "sta207",
+        "code": "STA 207",
+        "title": "Stat Methods for Resch 2",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Linear and nonlinear statistical models emphasis on concepts, methods/data analysis using professional level software. Topics include linear mixed models, repeated measures, generalized linear models, model selection, analysis of missing data, and multiple testing procedures.",
+        "attributes": [],
+        "instructors": [
+            "Shizhe Chen"
+        ],
+        "sections": [
+            "42903"
+        ],
+        "capacity": 72,
+        "seatsAvailable": 72
+    },
+    {
+        "id": "mat207b",
+        "code": "MAT 207B",
+        "title": "Applied Mathematics",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Ordinary differential equations and dynamical systems. Variational principles. Eigenfunctions, integral equations and Green's functions. Complex analysis and contour integration. Laplace's equation.  Diffusion equations. Wave phenomena. Dimensional analysis and scaling. Asymptotic expansions and perturbation theory. Stochastic processes and Brownian motion.",
+        "attributes": [],
+        "instructors": [
+            "Joseph Teran"
+        ],
+        "sections": [
+            "30926"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "mat215a",
+        "code": "MAT 215A",
+        "title": "Topology",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Fundamental group and covering space theory. Homology and cohomology. Manifolds and duality. CW complexes. Fixed point theorems.",
+        "attributes": [],
+        "instructors": [
+            "Evgeny Gorskiy"
+        ],
+        "sections": [
+            "45199"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "ecs220",
+        "code": "ECS 220",
+        "title": "Theory Of Computation",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Time and space complexity classes. Reductions, completeness, and the role of randomness. Logic and undecidability.",
+        "attributes": [],
+        "instructors": [
+            "David Doty"
+        ],
+        "sections": [
+            "45379"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "sta220",
+        "code": "STA 220",
+        "title": "Stat Data Technologies",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Essentials of using relational databases and SQL. Processing data in blocks. Scraping Web pages and using Web services/APIs. Basics of text mining. Interactive data visualization with Web technologies. Computational data workflow and best practices. Statistical Methods.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "42904"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "mat221a",
+        "code": "MAT 221A",
+        "title": "Math Fluid Dynamics",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Kinematics and dynamics of fluids. The Euler and Navier-Stokes equations. Vorticity dynamics. Irrotational flow. Low Reynolds number flows and the Stokes equations. High Reynolds number flows and boundary layers. Compressible fluids. Shock waves.",
+        "attributes": [],
+        "instructors": [
+            "Joseph Biello"
+        ],
+        "sections": [
+            "45200"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "sta223",
+        "code": "STA 223",
+        "title": "Generalized Lin Models",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Likelihood and linear regression; generalized linear model; Binomial regression; case-control studies; dose-response and bioassay; Poisson regression; Gamma regression; quasi-likelihood models; estimating equations; multivariate GLMs.",
+        "attributes": [],
+        "instructors": [
+            "Hans-Georg Mueller"
+        ],
+        "sections": [
+            "42905"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "mat228b",
+        "code": "MAT 228B",
+        "title": "Numerical Soln Diff Eqn",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Numerical solutions of initial-value, eigenvalue and boundary-value problems for ordinary differential equations. Numerical solution of parabolic and hyperbolic partial differential equations.",
+        "attributes": [],
+        "instructors": [
+            "Joseph Teran"
+        ],
+        "sections": [
+            "45201"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "sta231b",
+        "code": "STA 231B",
+        "title": "Math Stats II",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Second part of a three-quarter sequence on mathematical statistics. Emphasizes: hyposthesis testing (including multiple testing) as well as theory for linear models.",
+        "attributes": [],
+        "instructors": [
+            "Wolfgang Polonik"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "sta232b",
+        "code": "STA 232B",
+        "title": "Applied Statistics II",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Alternative approaches to regression, model selection, nonparametric methods amenable to linear model framework and their applications.",
+        "attributes": [],
+        "instructors": [
+            "Jiming Jiang"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "ecs235b",
+        "code": "ECS 235B",
+        "title": "Computer & Info Security",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Theoretical foundations of methods used to protect data in computer and communication systems. Access control matrix and undecidability of security; policies; Bell-LaPadula, Biba, Chinese Wall models; non-interference and non-deducibility; information flow and the confinement problem.",
+        "attributes": [],
+        "instructors": [
+            "Matthew Bishop"
+        ],
+        "sections": [
+            "21969"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "sta235b",
+        "code": "STA 235B",
+        "title": "Probability Theory",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Measure-theoretic foundations, abstract integration, independence, laws of large numbers, characteristic functions, central limit theorems. Weak convergence in metric spaces, Brownian motion, invariance principle. Conditional expectation. Topics selected from: martingales, Markov chains, ergodic theory.",
+        "attributes": [],
+        "instructors": [
+            "Xiaodong Li"
+        ],
+        "sections": [
+            "42908"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "mat235b",
+        "code": "MAT 235B",
+        "title": "Probability Theory",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Measure-theoretic foundations, abstract integration, independence, laws of large numbers, characteristic functions, central limit theorems. Weak convergence in metric spaces, Brownian motion, invariance principle. Conditional expectation. Topics selected from: martingales, Markov chains, ergodic theory.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "30930"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "ecs240",
+        "code": "ECS 240",
+        "title": "Programming Languages",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Advanced topics in programming languages, including formal syntax and semantics, the relation between formal semantics and verification, an introduction to the lambda calculus. Additional topics will include language design principles, alternative programming languages, in-depth semantic theory and models of language implementation.",
+        "attributes": [],
+        "instructors": [
+            "Aditya Thakur"
+        ],
+        "sections": [
+            "21970"
+        ],
+        "capacity": 70,
+        "seatsAvailable": 70
+    },
+    {
+        "id": "mat240a",
+        "code": "MAT 240A",
+        "title": "Differential Geometry",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Riemannian metrics, connections, geodesics, Gauss lemma, convex neighborhoods, curvature tensor, Ricci and scalar curvature, connections and curvature on vector bundles.",
+        "attributes": [],
+        "instructors": [
+            "Joel Hass"
+        ],
+        "sections": [
+            "30931"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "mat245",
+        "code": "MAT 245",
+        "title": "Enum Combinatorics",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Introduction to modern combinatorics and its applications. Emphasis on enumerative aspects of combinatorial theory.",
+        "attributes": [],
+        "instructors": [
+            "Fu Liu"
+        ],
+        "sections": [
+            "45202"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "sta250",
+        "code": "STA 250",
+        "title": "Appl & Comp Statistics",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Resampling, nonparametric and semiparametric methods, incomplete data analysis, diagnostics, multivariate and time series analysis, applied Bayesian methods, sequential analysis and quality control, categorical data analysis, spatial and image analysis, computational biology, functional data analysis, models for correlated data, learning theory.",
+        "attributes": [],
+        "instructors": [
+            "Xiao Hui Tai"
+        ],
+        "sections": [
+            "42909"
+        ],
+        "capacity": 30,
+        "seatsAvailable": 30
+    },
+    {
+        "id": "mat250b",
+        "code": "MAT 250B",
+        "title": "Algebra",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Group and rings. Sylow theorems, abelian groups, Jordan-Holder theorem. Rings, unique factorization. Algebras, and modules. Fields and vector spaces over fields. Field extensions. Commutative rings. Representation theory and its applications.",
+        "attributes": [],
+        "instructors": [
+            "Monica Vazirani"
+        ],
+        "sections": [
+            "30934"
+        ],
+        "capacity": 25,
+        "seatsAvailable": 25
+    },
+    {
+        "id": "ecs260",
+        "code": "ECS 260",
+        "title": "Software Engineering",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Advanced techniques for domain-specific software reuse.",
+        "attributes": [],
+        "instructors": [
+            "Cindy Rubio Gonzalez"
+        ],
+        "sections": [
+            "45380"
+        ],
+        "capacity": 60,
+        "seatsAvailable": 60
+    },
+    {
+        "id": "sta260",
+        "code": "STA 260",
+        "title": "Stat Practice & Data Anl",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Principles and practice of interdisciplinary collaboration in statistics, statistical consulting, ethical aspects, and basics of data analysis and study design. Emphasis on practical consulting and collaboration of statisticians with clients and scientists under instructor supervision.",
+        "attributes": [],
+        "instructors": [
+            "Balakanapathy Rajaratnam"
+        ],
+        "sections": [
+            "42911"
+        ],
+        "capacity": 25,
+        "seatsAvailable": 25
+    },
+    {
+        "id": "ecs271",
+        "code": "ECS 271",
+        "title": "Machine Learn & Discover",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Artificial intelligence techniques for knowledge acquisition by computers. Fundamental problems in machine learning and discovery. Systems that learn from examples, analogies, and solved problems. Systems that discover numerical laws and qualitative relationships. Projects centering on implementation and evaluation.",
+        "attributes": [],
+        "instructors": [
+            "Hamed Pirsiavash"
+        ],
+        "sections": [
+            "21972"
+        ],
+        "capacity": 65,
+        "seatsAvailable": 65
+    },
+    {
+        "id": "ecs273",
+        "code": "ECS 273",
+        "title": "Visual Analytics",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Analytical reasoning using visual means, data and visual transformations, exploratory visualization, explanatory visualization, interactive intelligent systems, qualitative and quantitative evaluation.",
+        "attributes": [],
+        "instructors": [
+            "Kwan-Liu Ma"
+        ],
+        "sections": [
+            "45639"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "ecs278",
+        "code": "ECS 278",
+        "title": "Computer-Aided Geo Desgn",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 4,
+        "maxUnits": 4,
+        "description": "Mathematical techniques for the definition and manipulation of curves and surfaces. Bezier curves and surfaces, B-spline curves and surfaces, subdivision surfaces, wavelets. Integration into various computer graphics rendering models, visualization systems and computer-aided design systems.",
+        "attributes": [],
+        "instructors": [
+            "Francis Panetta"
+        ],
+        "sections": [
+            "45381"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "mat280",
+        "code": "MAT 280",
+        "title": "Topics In Math",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 3,
+        "maxUnits": 3,
+        "description": "Special topics in various fields of pure and applied mathematics. Topics selected based on the mutual interests of students and faculty.",
+        "attributes": [],
+        "instructors": [
+            "Thomas Strohmer"
+        ],
+        "sections": [
+            "30935"
+        ],
+        "capacity": 25,
+        "seatsAvailable": 25
+    },
+    {
+        "id": "ecs289g",
+        "code": "ECS 289G",
+        "title": "Artificial Intelligence",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special topic in Artificial Intelligence.",
+        "attributes": [],
+        "instructors": [
+            "Joshua Mccoy"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "ecs289m",
+        "code": "ECS 289M",
+        "title": "Security",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special topic in Security.",
+        "attributes": [],
+        "instructors": [
+            "Muhammad Zubair Shafiq"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "sta290",
+        "code": "STA 290",
+        "title": "Stat Seminar",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 6,
+        "description": "Seminar on advanced topics in probability and statistics.",
+        "attributes": [],
+        "instructors": [
+            "Xiao Hui Tai"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 50,
+        "seatsAvailable": 50
+    },
+    {
+        "id": "mat290",
+        "code": "MAT 290",
+        "title": "Seminar",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 6,
+        "description": "Advanced study in various fields of mathematics, including analysis, applied mathematics, discrete mathematics, geometry, mathematical biology, mathematical physics, optimization, partial differential equations, probability, and topology.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "ecs298",
+        "code": "ECS 298",
+        "title": "Group Study",
+        "level": "Grad",
+        "subject": "ECS",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Group study.",
+        "attributes": [],
+        "instructors": [
+            "Mohammad Sadoghi Hamedani"
+        ],
+        "sections": [
+            "@"
+        ],
+        "capacity": 20,
+        "seatsAvailable": 20
+    },
+    {
+        "id": "sta298",
+        "code": "STA 298",
+        "title": "Directed Group Study",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Special topics in Statistics appropriate for study at the graduate level.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat298",
+        "code": "MAT 298",
+        "title": "Group Study",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 5,
+        "description": "Group study.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta299",
+        "code": "STA 299",
+        "title": "Indiv Study",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 12,
+        "description": "Individual study.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta299d",
+        "code": "STA 299D",
+        "title": "Dissertation Res",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 12,
+        "description": "Research in Statistics under the supervision of major professor.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat299",
+        "code": "MAT 299",
+        "title": "Individual Study",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 12,
+        "description": "Individual study.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat299d",
+        "code": "MAT 299D",
+        "title": "Dissert Research",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 1,
+        "maxUnits": 12,
+        "description": "Dissertation research.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "sta396",
+        "code": "STA 396",
+        "title": "Teach Assist Train Prac",
+        "level": "Grad",
+        "subject": "STA",
+        "minUnits": 1,
+        "maxUnits": 4,
+        "description": "Teaching assistant training practicum.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    },
+    {
+        "id": "mat399",
+        "code": "MAT 399",
+        "title": "Individual Study",
+        "level": "Grad",
+        "subject": "MAT",
+        "minUnits": 2,
+        "maxUnits": 4,
+        "description": "Individual study of some aspect of mathematics education or a focused work on a curriculum design project under supervision of a faculty member in mathematics.",
+        "attributes": [],
+        "instructors": [],
+        "sections": [
+            "@"
+        ],
+        "capacity": 0,
+        "seatsAvailable": 0
+    }
+]
