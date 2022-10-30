@@ -11,7 +11,8 @@ from src.engine import top_k_recomm
 
 def top_k_recommendations(liked_course, k, subjects):
     config = json.load(open("./config.json"))
-    obj = fetch_SchedGo(config, "ucdavis", 202301, subjects)
+    subject_list = subjects.split(',')
+    obj = fetch_SchedGo(config, "ucdavis", 202301, subject_list)
 
     # save some memory
     df = pd.DataFrame(obj)
