@@ -26,5 +26,5 @@ python start_engine.py -h
 
 * [ ] Integration with SchedGo
 * [ ] error management (liked_key may not exists)
-* [ ] compute similarity matrix only once and store as file
+* [x] compute similarity matrix only once when the engine starts
 * [ ] better recommendation methods
