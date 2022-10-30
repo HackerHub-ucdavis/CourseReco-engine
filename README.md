@@ -51,7 +51,6 @@ python start_engine.py -- mode ecs_mat_sta
 
 * [x] compute similarity matrix only once when the engine starts
 * [x] Integration with SchedGo
-* [ ] fetch data concurrently for faster start
 * [ ] error management (liked_key may not exists), and logs
 * [ ] complete unit tests
 * [ ] better recommendation methods
