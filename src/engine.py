@@ -1,5 +1,16 @@
 
 def top_k_recomm(sim_mat, keys, liked_key, k):
+    """give top k recommendations
+
+    Args:
+        sim_mat (ndarray): similarity matrix
+        keys (pd.Series): codes for all courses
+        liked_key (str): code for liked course
+        k (int): number of recommendations wanted
+
+    Returns:
+        List[str]: codes of recommended courses
+    """
     # ! liked_key may not exists
     course_index = keys[keys == liked_key].index.values[0]
     
