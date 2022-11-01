@@ -7,6 +7,7 @@ import pandas as pd
 from src.data_loader import fetch_SchedGo
 from src.cos_sim import cos_similarity
 from src.engine import top_k_recomm
+from src.util import dump_csv
 
 
 def top_k_recommendations(liked_course, k, subjects):
@@ -20,7 +21,8 @@ def top_k_recommendations(liked_course, k, subjects):
     del df
 
     sim_mat = cos_similarity(sub_df["description"])
-    return top_k_recomm(sim_mat, sub_df["code"], liked_course, k)
+    reco_res = top_k_recomm(sim_mat, sub_df["code"], liked_course, k)
+    return dump_csv(reco_res)
 
 
 if __name__ == "__main__":
