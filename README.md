@@ -22,30 +22,6 @@ python start_engine.py
 python start_engine.py -h
 ```
 
-## Mode
-
-this engine has two modes: full and sub
-
-### Full
-
-this mode fetches data from SchedGo server,
-and make recommendations for all available courses for a quarter.
-
-```bash
-python start_engine.py --mode full
-```
-
-### Sub
-
-This mode will only make recommendations with subjects Math, Statistics, and Computer Science.
-
-**NOTE** this is the **default** mode.
-
-```bash
-python start_engine.py
-# or
-python start_engine.py -- mode ecs_mat_sta
-```
 
 # ToDo
 
